@@ -14,8 +14,6 @@ RIPv2 e Análise de Convergência
 
 **Professor responsável:** Prof. Dr. Laerte Peotta de Melo
 
-**Monitores:** Victor Lima dos Santos / Beatriz Silva Nascimento
-
 **Aluno:** Lucas de Souza Viegas
 
 **Instituição:** Universidade de Brasília (UnB)

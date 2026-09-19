@@ -20,6 +20,8 @@ PTR aborda os fundamentos e a prática de roteamento e transporte em redes de co
 | 03 | [Multicast IP com PIM-DM em topologia controlada](labs/lab03.md) | Roteamento multicast (PIM Dense Mode), IGMP | ⚠️ Parcial — pendência na entrega fim a fim do tráfego multicast |
 | 04 | [RIPv2 e Análise de Convergência](labs/lab04.md) | RIPv2, convergência de rede após falha de enlace | ✅ Concluído |
 
+📝 Material de apoio: [Notas de aula — RIP e roteamento dinâmico](labs/notas-aula-rip.md) (inclui gravação da aula)
+
 ## Estrutura do repositório
 
 ```
@@ -42,4 +44,3 @@ Cada relatório em `labs/` foi convertido para Markdown a partir dos relatórios
 ## Referência
 
 Os enunciados e roteiros originais dos laboratórios são de autoria do Prof. Dr. Laerte Peotta de Melo e estão disponíveis em [github.com/peotta/PTR](https://github.com/peotta/PTR). Este repositório contém apenas os relatórios de execução produzidos pelo aluno a partir desses roteiros.
-# laborat-rios-PTR---Protocolos-de-Transporte-e-Roteamento

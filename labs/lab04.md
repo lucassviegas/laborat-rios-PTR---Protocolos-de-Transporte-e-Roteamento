@@ -2,7 +2,7 @@
 
 > Disciplina: ENE0025 - Protocolos de Transporte e Roteamento (UnB) · Prof. Dr. Laerte Peotta de Melo
 > Roteiro de referência: [peotta/PTR](https://github.com/peotta/PTR)
-> [⬅ Voltar ao README](../README.md)
+> [⬅ Voltar ao README](../README.md) · [Notas de aula — RIP e roteamento dinâmico](notas-aula-rip.md)
 
 ---
 
